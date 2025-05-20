@@ -1,3 +1,12 @@
+# 必須要是cmd
+# cd 資料夾路徑
+# python 程式碼(含副檔名) < 資測txt檔案
+#
+# 如下
+# C:\Users\Wan\Desktop\ccClub Judge\Week8>python 矩陣相乘.py < 03_2.txt
+# [523669010, 276189240, 1186616700, 625407500]
+
+
 n = int(input())
 
 matrices = []
