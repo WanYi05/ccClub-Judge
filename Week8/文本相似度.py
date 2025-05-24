@@ -2,6 +2,8 @@
 #     text_a = f.readline().strip()
 #     text_b = f.readline().strip()
 
+# python -X utf8 文本相似度.py < 04_3.txt
+
 text_a = input()
 text_b = input()
 
