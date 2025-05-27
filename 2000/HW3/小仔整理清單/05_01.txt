@@ -1,0 +1,14 @@
+4 4
+apple 30
+orange 40
+pizza 150
+egg 10
+Jeffery apple 10
+Anny orange 20
+Jeffery orange 15
+Anny apple 2
+A Jeffery
+B Anny pizza
+B Jeffery apple
+C pizza
+C apple

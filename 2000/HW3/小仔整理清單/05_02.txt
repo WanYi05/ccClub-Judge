@@ -1,0 +1,15 @@
+5 5
+a 10
+b 30 
+c 30
+d 40
+e 20
+Kevin a 5
+Joe b 3
+Kevin c 20
+Wang d 30
+Kevin d 21
+A Kevin
+B Kevin a
+B Joe d
+C a

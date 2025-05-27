@@ -38,7 +38,7 @@ building_priority = {'A': 1, 'B': 2, 'C': 3}
 sorted_residents = sorted(residents_data, key=lambda resident: building_priority[resident[1]])
 
 # 承上，若棟別相同，則依照居住年資：10年以上(含) > 5年以上(含)，未滿10年 > 未滿5年
-if 
+
 
 # 按照排序後的結果印出住戶ID
 # 遍歷排序後的 sorted_residents 列表，一個接一個地處理每個住戶資料
