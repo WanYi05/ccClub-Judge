@@ -1,3 +1,4 @@
+# 解析
 keywords = ["apple", "app"]  # 先用固定的關鍵字方便示範
 
 sentences = ["I have an apple"]  # 固定句子
